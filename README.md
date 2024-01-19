@@ -3,7 +3,7 @@
 
 ***
 
-# Clash for Windows Chinese<img src="https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
+# Clash for Windows Chinese  个人存档<img src="https://github.com/Z-Siqi/Clash-for-Windows_Chinese/blob/main/image/image_clash.png?raw=true" width="30" height="30">
 ### Clash 汉化版
 
 **提供clash for windows的汉化版, 汉化补丁以及汉化版Clash安装程序**
