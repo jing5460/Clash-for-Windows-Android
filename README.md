@@ -10,8 +10,8 @@
 
 效果图
 
-[![photo](![image](https://github.com/jing5460/Clash-for-Windows-Chinese/assets/38358681/1e3c9635-ecee-494b-8fe6-ccec681eaec0)
-)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
+[![image](https://github.com/jing5460/Clash-for-Windows-Chinese/assets/38358681/1e3c9635-ecee-494b-8fe6-ccec681eaec0)
+](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
 > 效果图的版本可能不是当前最新兼容的
 
 **支持的clash版本:**
